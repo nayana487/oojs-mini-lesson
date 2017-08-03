@@ -8,7 +8,7 @@
 - Define the concept of inheritance as it pertains to classes
 - Create a class that inherits from another using the `extends` and `super` keywords
 
-## Framing (10 minutes / 0:10)
+## Framing (10 minutes)
 
 #### What is an object in programming?
 
@@ -60,7 +60,7 @@ OOP becomes **very** important as our front-end code grows in complexity. Even a
 * Update the state of the page as data changes
 * Respond to events like clicking buttons
 
-### Creating Objects (5 minutes / 0:15)
+### Creating Objects (5 minutes)
 
 So far, we've had to make our objects 'by hand' (i.e. using object literals)...
 
